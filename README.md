@@ -1,7 +1,7 @@
 # LTspice-2-NPN-PNP-RC-oscillator
 source code of osc circuit simulaiton
 
-[2NPN_RC_osc.JPG](2NPN_RC_osc.JPG)
+![2NPN_RC_osc.JPG](2NPN_RC_osc.JPG)
 
 source code file, 
 [2NPN_RC_osc.asc](2NPN_RC_osc.asc)
